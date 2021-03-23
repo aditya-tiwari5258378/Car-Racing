@@ -1,0 +1,16 @@
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\adity\source\repos\CarRacing\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csprojAssemblyReference.cache
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.Form1.resources
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.GenerateResource.cache
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
+C:\Users\adity\source\repos\CarRacing\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.Properties.Resources.resources
